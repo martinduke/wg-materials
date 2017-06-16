@@ -14,7 +14,7 @@ In-person and remote participants MUST register using [this form](https://goo.gl
 We'll be meeting Tuesday to Thursday, 3-5 October 2017. Meetings will begin at 9:30am and end at
 approximately 5pm on each day (although we may choose to end earlier).
 
-Please note that an interop event may be scheduled prior to the interim meeting.
+Please note that an interop event may be scheduled prior to the interim meeting. This will be on 2 October at the same location.
 
 See [the agenda](agenda.md) for full details.
 
@@ -62,3 +62,4 @@ The following hotels have an “F5 Rate,” if you call them, and is the best av
 * [The Maxwell Hotel](http://www.themaxwellhotel.com/) - 16 minutes 
 * [Thompson Seattle](http://www.thompsonhotels.com/hotels/seattle/thompson-seattle) - 27 minutes
 
+There are many other options you can find on any booking website, several of which are less than 15 minutes’ walk away. For example, the Mediterranean Inn is next-closest, inexpensive, and gets decent reviews.
