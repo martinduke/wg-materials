@@ -46,6 +46,7 @@ There are multiple ways to cover the last stretch to the office, in declining or
 * Taxis, Uber, and Lyft are all easy to get downtown and will cost about $5.
 * The Monorail costs $2.25, and is accessible by elevator from the Westlake mezzanine. It is fast and fun. It drops you off by the Space Needle, which is a 15-minute walk from F5 but very convenient for several hotels.
 * Buses are frequent and convenient all day. From Westlake, you can catch a bus to F5 on 3rd Avenue. Routes 24 and 33 pass directly in front of the office; routes D, 1, 2, and 13 all pass with 5 blocks of it. If you’re going to use the bus at all on the trip, buy an [ORCA card](https://orcacard.com/) at the light rail ticket machine instead of a one-way train ticket. It works like farecards elsewhere in the world, and makes the train-to-bus transfer free.
+* There are numerous stationless bikeshare companies in Seattle. You can find their brightly colored bikes on the sidewalk or in their phone app, unlock them using your phone, and drop them off wherever you like after a $1 ride.
 * If the weather cooperates and you travel light, it is a pleasant and scenic walk along the waterfront.
 
 There is no need to rent a car in the central city. If you do, there is no free parking at F5. There are several pay lots nearby that charge about $10 a day.
